@@ -6,12 +6,21 @@ layout: default
   <!-- begin author -->
   <section class="author" data-aos="fade-up" data-aos-easing="ease-out-quad" data-aos-duration="700">
     <div class="author__inner">
-  <img src="{{site.baseurl}}{{site.author.image}}" alt="{{site.author.name}}" class="author__img">
-      <h1 class="author__job">{{ site.author.job }}</h1>
+      <img src="{{site.baseurl}}{{site.author.image}}" alt="{{site.author.name}}" class="author__img">
+      <h1 class="author__job">{{ site.author.name }} - {{ site.author.job }}</h1>
       <p class="author__bio">{{ site.author.bio }}</p>
       <div class="author__more">
         <a href="mailto:{{site.author.email}}?subject=Hello%20%F0%9F%91%8B" class="say-hello">Say hello</a>
         <a href="{{site.baseurl}}/about/" class="know-more">Know More</a>
+      </div>
+      <!-- 3 column image-heading below -->
+      <div class="author__more">
+        <h3><a href="https://www.upwork.com/services/product/development-it-mateusz-1470454683422027776?ref=project_share">Book a consultation</a></h3>
+
+        <h3><a href="https://www.weeklyrobotics.com/">Robotics newsletter</a></h3>
+
+        <h3><a href="https://msadowski.github.io/">Personal website</a></h3>
+
       </div>
     </div>
   </section>
@@ -19,6 +28,9 @@ layout: default
 </div>
 
 <div class="container">
+
+  <p>More content coming in the future</p>
+
   {% if site.posts.size > 0 %}
     {% for post in site.posts %}
     <div class="article" data-aos="fade-up" data-aos-easing="ease-out-quad" data-aos-duration="800">
@@ -39,5 +51,5 @@ layout: default
       </div>
     </div>
     {% endfor %}
-  {% endif %}
+    {% endif %}
 </div>

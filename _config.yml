@@ -1,36 +1,25 @@
-title: Derrick Wells – Independent Product Designer
-logo:  # you can add own logo.
-description: Passionate designer curating designs for new startups  and  founders  and crafts  beautiful user interfaces with love.
+title: Mat Sadowski – Robotics Consultant
+logo: '/m_cropped.png' # you can add own logo.
+description: Super passionate robotics developer
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 # Author Settings
 author:
-  name: Derrick Wells
+  name: Mat Sadowski
   image: '/assets/img/01.jpg'
-  job: Independent Product Designer
-  bio: Passionate designer curating designs for new startups  and  founders  and crafts  beautiful user interfaces with love.
-  email: forexample@website.com
+  job: Robotics Consultant
+  bio: Helping develop software for all kinds of robotics
+  email: contact@msadowski.ch
 
 
 # Contact links
 contact:
-  - name: Twitter
-    link: https://twitter.com/
-  - name: Facebook
-    link: https://facebook.com/
-  - name: Instagram
-    link: https://instagram.com/
-
-
-# Comment Section (Disqus)
-disqus-identifier: mr-brown # add your shortname for Disqus Comment. For example mr-brown
-
-
-# Google Analytics
-google-analytics: # add your identifier. For example UA-99631805-1.
-
+  - name: LinkedIn
+    link: https://www.linkedin.com/in/mateuszsadowski/
+  - name: GitHub
+    link: https://github.com/msadowski
 
 # Build settings
 markdown: kramdown
@@ -57,7 +46,6 @@ tag_permalink_style:  pretty
 sass:
   sass_dir: _sass
   style: compressed
-
 
 # Exclude from processing.
 exclude:

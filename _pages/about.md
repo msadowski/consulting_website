@@ -5,16 +5,41 @@ permalink: /about/
 image: '/assets/img/01.jpg'
 ---
 
-Hi, my name is Derrick Wells. I like being at the center of events, being free and enjoying every moment. Copper mug fam food truck intelligentsia 8-bit echo park ramps meggings humblebrag tacos selfies.
+Hi, I'm Mat Sadowski. A passionate robotics consultant with nine years of experience, more than half of it as an independent consultant.
 
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity.
+I treat every project as I would treat my own, offering expertise to solve customer problems timely and with the least amount of risk. You are always in the loop on progress, time estimates, and high-risk tasks when working with me.
 
-***
-
-> Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution.
+Every week, I spend around six hours working on my [robotics newsletter](https://www.weeklyrobotics.com/), constantly learning about news, projects and trends in Robotics.
 
 ***
 
-Proactively envisioned multimedia based expertise and cross-media growth strategies. Seamlessly visualize quality intellectual capital without superior collaboration and idea-sharing. Holistically pontificate installed base portals after maintainable products.
+> Mat is a phenomenal consultant, and we love working with him. Extremely knowledgeable and levels up everyone he works with. Continues to add value even after the engagement, and his passion is infectious!
 
-Phosfluorescently engage worldwide methodologies with web-enabled technology. Interactively coordinate proactive e-commerce via process-centric "outside the box" thinking. Completely pursue scalable customer service through sustainable potentialities.
+-- Charles Brian Quinn, CEO of [Greenzie](https://www.greenzie.com/)
+
+***
+
+Below you will find some highlights of my expertise:
+
+ROS:
+* Navigation stack
+* Localization stack
+* ros_control
+* cartographer, slam_toolbox, AMCL
+* Deploying ROS on custom robotic solutions
+* Developing drivers for sensors and actuators
+
+Drones:
+* Px4 flight stack
+* ArduPilot (ArduCopter, ArduRover)
+* Developing drivers for custom sensors for the above flight stacks
+* Using ROS on a companion computer for high-level control
+
+Sensors experience:
+* ToF sensors (single points and arrays)
+* Ultra Wide Band (UWB) localization
+* RTK GPS
+* Single and multiplane LiDARs (Hokuyo, RPLIDAR, Livox, Ouster OS-1)
+* IMUs (RazorIMU, Bosch BNO055, PhidgetSpatial, Xsens)
+* Tracking modules (Realsense T265)
+* 3D Cameras (Realsense D435i)
